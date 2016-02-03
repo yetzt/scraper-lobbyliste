@@ -7,6 +7,8 @@ Die letzte Fassung wird heruntergeladen, nach JSON konvertiert und mit LZMA komp
 
 Stellen Sie sicher, dass [node.js](https://nodejs.org/) oder [io.js](https://nodejs.org/) installiert sind.
 
+Achtung, das Paket [pdftxt](https://www.npmjs.com/package/pdftxt) benötigt [pdf3json](https://github.com/yetzt/pdf3json/).
+
 ```
 git clone https://github.com/lobbyradar/scraper-lobbyliste.git
 cd scraper-lobbyliste

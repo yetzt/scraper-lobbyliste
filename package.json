@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "scraper-lobbyliste",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "scraper for http://bundestag.de/dokumente/lobbyliste",
   "main": "scraper.js",
   "author": "Sebastian Vollnhals <sv@opendatacity.de> (https://opendatacity.de/)",
@@ -11,10 +11,10 @@
     "minimist": "^1.1.0",
     "mkdirp": "^0.5.0",
     "moment": "^2.8.4",
-    "pdftxt": "0.0.7",
+    "pdftxt": "0.1.0",
     "request": "^2.48.0",
     "scrapyard": "0.0.7",
     "tmp": "0.0.24",
-    "xz": "^1.0.3"
+    "xz": "1.2.0"
   }
 }
